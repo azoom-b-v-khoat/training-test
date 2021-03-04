@@ -9,8 +9,8 @@
 ## CÁC BƯỚC CHẠY PROJECT
 
 ```bash
-# clone repo
-$ git clone https://github.com/azoom-b-v-khoat/az-training-test.git
+# Fork repo
+$ https://github.com/azoom-b-v-khoat/az-training-test.git
 
 # cài đặt dependencies
 $ yarn install
